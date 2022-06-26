@@ -68,7 +68,6 @@ I am research fellow at the University of Fribourg (Switzerland), currently work
 My research interests include derivational morphology, distributional semantics, and the development of language resources.
 
 
-
 #![image](https://user-images.githubusercontent.com/62030779/175821957-b408de53-2ff6-4f45-bb65-16ca462abed8.png)
 
 
