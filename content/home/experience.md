@@ -22,28 +22,44 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research fellow ("Collaboratrice scientifique")
+    company: University of Fribourg/Freiburg
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Switzerland
+    date_start: '2022-5-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Postdoctoral researcher 
+    company: University of Fribourg/Freiburg
+    company_url: ''
+    company_logo: org-gc
+    location: Switzerland
+    date_start: '2021-10-01'
+    date_end: '2022-04-31'
+
+  - title: Postdoctoral researcher ("Assegnista di ricerca")
+    company: Università di Torino
+    company_url: ''
+    company_logo: org-gc
+    location: Italy
+    date_start: '2020-12-01'
+    date_end: '2021-09-30'
+
+  - title: Postdoctoral researcher ("Assegnista di ricerca")
+    company: Università di Firenze
+    company_url: ''
+    company_logo: org-gc
+    location: Italy
+    date_start: '2018-10-01'
+    date_end: '2020-11-30'
+
+  - title: Freelance computation linguist
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2017-02-15'
+    date_end: '2021-9-31'
+    description: Collaboration with Lionbridge and SmartKYC
 
 design:
   columns: '2'
