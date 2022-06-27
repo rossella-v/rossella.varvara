@@ -14,14 +14,14 @@ organizations:
   #  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: #My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Derivational morphology
-  - Computational models of meaning
-  - Language resources
-  - Corpus linguistics
+ # - Derivational morphology
+ # - Computational models of meaning
+ # - Language resources
+ # - Corpus linguistics
 
 # Education to show in About widget
 education:
@@ -63,4 +63,15 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am research fellow at the University of Fribourg (Switzerland), currently working on the project "The semantics of deverbal nouns in French" (PI: prof. Richard Huyghe) funded by the Swiss National Science Foundation. Previously, I have been a postdoctoral researcher at the University of Torino and University of Florence.
+
+My research interests include derivational morphology, distributional semantics, and the development of language resources.
+
+
+
+#![image](https://user-images.githubusercontent.com/62030779/175821957-b408de53-2ff6-4f45-bb65-16ca462abed8.png)
+
+
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
